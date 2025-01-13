@@ -1,0 +1,51 @@
+name: bookjuckboojuck
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  image_picker: ^1.1.2
+  http: ^1.2.2
+  shared_preferences: ^2.3.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/bookjuck_icon.png
+    - assets/images/curry.jpg
+
+
+  fonts:
+    - family: ggr
+      fonts:
+        - asset: assets/fonts/ggr.ttf
+    - family: NotoSansKR
+      fonts:
+        - asset: assets/fonts/Roboto-Black.ttf
+          weight: 800
+        - asset: assets/fonts/Roboto-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Roboto-Medium.ttf
+          weight: 600
+        - asset: assets/fonts/Roboto-Regular.ttf
+          weight: 500
+        - asset: assets/fonts/Roboto-Light.ttf
+          weight: 400
+        - asset: assets/fonts/Roboto-Thin.ttf
+          weight: 300
