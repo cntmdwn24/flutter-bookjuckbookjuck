@@ -1,16 +1,5 @@
 # bookjuckboojuck
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+경소고 모의 해커톤 프로젝트
+2025년 1월 13일 기준으로 작동확인 완료
+프로젝트 실행전에 안스 터미널에 flutter pub get 치기
