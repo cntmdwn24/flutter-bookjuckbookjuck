@@ -23,7 +23,7 @@ class _CommunityScreenState extends State<CommunityScreen> {
   void _addInitialPosts() {
     // 초기 게시물 목록
     _addNewPost('나는 AI의 신이다', '내가 누군지는 모르겠지만 너네는 날 이길 수 없다', '양지민');
-    _addNewPost('사실 북적북적은 이게 아니라네', '북적북적은 2학년 캡스톤에서 사용된 이름이라 하네..', '추승주');
+    _addNewPost('gang', '추승주');
     _addNewPost('최애의 아이를 추천합니다', '아이짱 이뻐요', '김채환');
   }
 
